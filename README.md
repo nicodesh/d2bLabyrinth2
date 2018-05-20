@@ -1,6 +1,6 @@
 # Labyrinth : a little game in Python
 
-It's a multiplayer labyrinth game. Works only with Python 3.
+It's a multiplayer labyrinth game. It works only with Python 3.
 
 ## Client Side
 
