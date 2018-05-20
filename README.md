@@ -1,4 +1,4 @@
-#Labyrinth : a little game in Python
+# Labyrinth : a little game in Python
 
 It's a multiplayer labyrinth game. Works only with Python 3.
 
