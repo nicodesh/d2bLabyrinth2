@@ -1,2 +1,4 @@
 .DS_STore
 __pycache__/
+client/__pycache__/
+server/__pycache__/
